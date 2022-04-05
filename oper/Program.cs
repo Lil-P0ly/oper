@@ -1,4 +1,5 @@
-﻿using System;
+﻿// поц
+using System;
 
 namespace oper
 {
@@ -202,7 +203,7 @@ namespace oper
                     }
                 }
             }
-
+            // test gita
             Matrix.Razn(A, B, C);
             for (int i = 0; i < A.b.Length; i++)
             {
